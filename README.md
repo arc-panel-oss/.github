@@ -1,6 +1,6 @@
 # arc-panel-oss/.github
 
-The organization profile and default community files of [ArcPanel](https://arcpanel.top).
+The organization profile and default community files of [ArcPanel](https://arcpanel.org).
 
 | File                        | Purpose                                                                           |
 | --------------------------- | --------------------------------------------------------------------------------- |

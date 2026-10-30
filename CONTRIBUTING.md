@@ -5,7 +5,7 @@ Thank you for helping. You don't need to write code to move the project forward.
 ## Ways to help
 
 - **Report a bug** with the issue form of the repository: your OS, the ArcPanel version, the steps to reproduce and the logs.
-- **Translate the panel** on [Crowdin](https://crowdin.com/project/arcpanel).
+- **Pick a starter task** labelled [good first issue](https://github.com/arc-panel-oss/arcpanel/labels/good%20first%20issue); comment on the issue to take it.
 - **Test pre-releases** on a spare amd64 server with Debian or Ubuntu, and tell us what breaks.
 - **Ask and answer questions** in [GitHub Discussions](https://github.com/arc-panel-oss/arcpanel/discussions).
 
@@ -20,7 +20,7 @@ We welcome issues from everyone. Pull requests need an agreement first:
 
 A pull request without an accepted issue is closed with a pointer to the issue form.
 
-Each repository describes its setup, checks and rules in its `README.md` and `AGENTS.md`. The full contributor guide is at [arcpanel.top/contributing](https://arcpanel.top/contributing).
+Each repository describes its setup, checks and rules in its `README.md` and `AGENTS.md`. The full contributor guide is at [arcpanel.org/contributing](https://arcpanel.org/contributing).
 
 ## Conduct and security
 

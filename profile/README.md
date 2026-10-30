@@ -15,7 +15,7 @@ Web domains, DNS, mail, databases, SSL and backups, plus Node.js and Docker apps
 On a fresh server, as root:
 
 ```bash
-wget https://arcpanel.top/install.sh
+wget https://arcpanel.org/install.sh
 sudo bash install.sh
 ```
 
@@ -34,7 +34,7 @@ Every feature is in the free download. No plan unlocks code.
 
 ## Links
 
-[Docs](https://arcpanel.top/docs) · [Install](https://arcpanel.top/install) · [Changelog](https://arcpanel.top/changelog) · [Roadmap](https://arcpanel.top/roadmap) · [Support](https://arcpanel.top/support) · [Contributing](https://arcpanel.top/contributing)
+[Docs](https://arcpanel.org/docs) · [Install](https://arcpanel.org/install) · [Changelog](https://arcpanel.org/changelog) · [Roadmap](https://arcpanel.org/roadmap) · [Support](https://arcpanel.org/support) · [Contributing](https://arcpanel.org/contributing)
 
 ---
 
