@@ -1,5 +1,6 @@
 <!-- markdownlint-disable-file MD041 -->
 <!-- Pull requests need an issue that a maintainer has accepted. See CONTRIBUTING.md. -->
+<!-- GitHub opens pull requests against `master`. Set "base" to `develop` above before you create this one. -->
 
 Closes #
 
