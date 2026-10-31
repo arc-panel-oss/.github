@@ -13,5 +13,3 @@ The organization profile and default community files of [ArcPanel](https://arcpa
 | `ISSUE_TEMPLATE/config.yml` | Contact links on the "New issue" page                                             |
 
 GitHub uses these files in every repository of the organization that has no file of the same kind. A repository's own file takes precedence.
-
-Design: [GitHub organization profile and community files](https://github.com/arc-panel-oss/docs/blob/main/features/specs/2026-10-24-002-github-org-profile-design.md).
